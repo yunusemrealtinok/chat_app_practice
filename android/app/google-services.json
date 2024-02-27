@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1058128890210",
+    "project_id": "friendsapp-e905f",
+    "storage_bucket": "friendsapp-e905f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058128890210:android:07dba386ecb6efd12fc43b",
+        "android_client_info": {
+          "package_name": "com.example.chat_app_practice"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMpV142EGyKSxxNwpVnbjj2l2SSNVMaQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058128890210:android:9fbffb900a7216b52fc43b",
+        "android_client_info": {
+          "package_name": "com.example.tdd"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMpV142EGyKSxxNwpVnbjj2l2SSNVMaQc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
